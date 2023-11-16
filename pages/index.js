@@ -7,11 +7,15 @@ import SelfImprovement from '@/Components/SelfImprovement'
 import OtherThink from '@/Components/OtherThink'
 import VacancySection from '@/Components/VacancySection'
 import StaticText2 from '@/Components/StaticText2'
-const inter = Inter({ subsets: ['latin'] })
+import AuthorDetails from '@/Components/AuthorDetails'
+import AppDemo from '@/Components/AppDemo'
+
 
 export default function Home() {
   return (
     <>
+     <AppDemo/>
+     <AuthorDetails/>
      <FirstAnimation/>
      <EQbeats/>
      <CardSlider/>
