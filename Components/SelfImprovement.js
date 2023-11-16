@@ -1,11 +1,11 @@
+import { useEffect, useState } from "react";
 import {Text,Box,Flex,Image,Heading,Slider,SliderMark,SliderTrack,
 SliderFilledTrack,
 SliderThumb} from "@chakra-ui/react";
-  import { motion } from "framer-motion";
-  import { useEffect, useState } from "react";
-  import VisibilitySensor from "react-visibility-sensor";
+import { motion } from "framer-motion";
+import VisibilitySensor from "react-visibility-sensor";
   
-  const SelfImprovement = () => {
+const SelfImprovement = () => {
     const [isVisible, setIsVisible] = useState(false);
   
     useEffect(() => {
