@@ -6,6 +6,7 @@ import CardSlider from '@/Components/CardSlider'
 import SelfImprovement from '@/Components/SelfImprovement'
 import OtherThink from '@/Components/OtherThink'
 import VacancySection from '@/Components/VacancySection'
+import StaticText2 from '@/Components/StaticText2'
 const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
@@ -15,6 +16,7 @@ export default function Home() {
      <EQbeats/>
      <CardSlider/>
      <SelfImprovement/>
+     <StaticText2/>
      <OtherThink/>
      <VacancySection/>
      <Footer/>
