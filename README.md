@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# [Deployed Link](https://density-exchange-ui.vercel.app/)
+
+## Introduction
+
+This is Density Exchange Frontend UI assignment submission. This vibrant landing page is a canvas of animated brilliance, meticulously crafted for the Density Exchange assignment. Dive into a visual journey that transcends traditional web experiences, brought to life through the seamless fusion of Next.js, Chakra UI, and Framer Motion.
+
+## Features
+
+- **Engaging Animations**: Elevate your assignment with a symphony of captivating animations, each telling a unique story and capturing attention effortlessly.
+- **Smooth Transitions**: Glide through your assignment with grace, thanks to the enchanting transitions and visual magic powered by Framer Motion.
+- **Responsive Design**: Witness the magic unfold flawlessly on every device, ensuring an optimal viewing experience for your assignment.
+
+## Tech Stack
+
+- [Next.js](https://nextjs.org/): Unleash the power of React with Next.js, a dynamic framework for building server-rendered applications that redefine speed and efficiency.
+- [Chakra UI](https://chakra-ui.com/): Elevate your UI design with Chakra UI, a simple and modular component library for React, adding style and substance to your assignment effortlessly.
+- [Framer Motion](https://www.framer.com/motion/): Ignite your project with Framer Motion, an animation library that transforms ideas into captivating motions, bringing your assignment to life.
+  
 
 ## Getting Started
 
-First, run the development server:
+Follow these steps to get the project up and running on your local machine:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+1. Clone this repository 
+   ```git clone https://github.com/HarshDeswal/density_exchange.git```
+2. Navigate to the project directory: `cd density_exchange`
+3. Install dependencies: `npm install`
+4. Start the development server: `npm run dev`
+5. Open your browser and visit: `http://localhost:3000`
